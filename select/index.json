@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "＋もしもしダーリン♡",
+  "base_artist": "チームいちご",
+  "createdAt": "2025-12-14T18:40:14.678670Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "+もしもしダーリン♡",
+      "artist": "チームいちご",
+      "has_synced": false,
+      "path": "select/pl_01_+もしもしダーリン♡_チームいちご.txt"
+    }
+  ]
+}
